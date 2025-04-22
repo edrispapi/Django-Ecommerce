@@ -4,32 +4,32 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 ![image](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png)
 
-`Product Slide`
+`Product Slide` اسلاید محصول
 
 ![image](https://user-images.githubusercontent.com/29988949/65999313-ff67fe00-e451-11e9-9ed9-fc7bce704f17.png)
 
-`Shop Page`
+`Shop Page` فروشگاه محصول
 ![image](https://user-images.githubusercontent.com/29988949/66098968-923f9000-e559-11e9-8691-cd5c2b181ca1.png)
 
-`Product Detail Page`
+`Product Detail Page` صفحه محصول
 ![image](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png)
 
-`Cart Page`
+`Cart Page` سبد خرید
 ![image](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png)
 
-`BillingAddress Page`
+`BillingAddress Page` صفحه ارسال
 ![image](https://user-images.githubusercontent.com/29988949/66291542-013d2180-e897-11e9-8ea9-40afcb90cee2.png)
 
-`Stripe Payment Page`
+`Stripe Payment Page` صفحه پرداخت
 ![image](https://user-images.githubusercontent.com/29988949/66291610-29c51b80-e897-11e9-8b47-20de35d6c1d0.png)
 
-`Order Success Page`
+`Order Success Page` صفحه موفقیت آمیز بودن تراکنش
 ![image](https://user-images.githubusercontent.com/29988949/66291657-3e091880-e897-11e9-830b-6cf44e72a995.png)
 
 
 
 
-# Installation
+# Installation نصبی های ضروری
 
 `git clone https://github.com/zinmyoswe/Django-Ecommerce.git`
 
@@ -43,7 +43,7 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 `source env/bin/activate`
 
-# For Window
+# For Window ویندوز
 
 `env\Scripts\activate`
 
@@ -72,14 +72,14 @@ pip install Pillow
 
 ```python
 python manage.py createsuperuser
-Username : admin
+Username : admin 
 Password : 12345678
 ```
 # Demo
 
 http://djangoecommerce.pythonanywhere.com
 
-# HTML Template
+# HTML Template فایل HTML
 
 https://colorlib.com/etc/fashe/index.html
 

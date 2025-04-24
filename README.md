@@ -1,6 +1,8 @@
-# Django-Ecommerce
+# Django-Ecommerce پروژه فروشگاهی نوشته شده با جنگو
 
 Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
+
+ وبسایت فروشگاهی به وسیله جنگو نسخه ۲.۲.۳ نوشته شده، پایتون ۳.۷.۳و AWS 
 
 ![image](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png)
 
@@ -29,7 +31,7 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 
 
-# Installation نصبی های ضروری
+# Installation نصبی های ضروری در CMD 
 
 `git clone https://github.com/zinmyoswe/Django-Ecommerce.git`
 
